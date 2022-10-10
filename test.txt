@@ -2,4 +2,5 @@ test v1 -
 test v2
 test v3 for hotbug
 test v3 for iss53
-test v4 
+test v4
+test v4 for clone
