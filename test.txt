@@ -5,3 +5,4 @@ test v3 for iss53
 test v4
 test v4 for clone
 test v5 for up-to-date
+test v6 for ssh
