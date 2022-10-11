@@ -6,3 +6,4 @@ test v4
 test v4 for clone
 test v5 for up-to-date
 test v6 for ssh
+test v7 for ssh 之前用http协议改为ssh免密登录，改掉在.git文件夹下的config文件的url
